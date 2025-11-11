@@ -349,6 +349,14 @@ This project is released for **educational and learning purposes only**. The pur
 
 **This is a learning resource, not a commercial product.**
 
+### Copyright
+
+**Proprietary - All Rights Reserved**
+
+Copyright © 2024 vanloc19. All rights reserved.
+
+This software and associated documentation files (the "Software") are the proprietary property of vanloc19.
+
 ---
 
 ## 👥 Team
