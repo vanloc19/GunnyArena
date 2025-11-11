@@ -2,7 +2,7 @@
 
 > Enterprise-grade multiplayer tank battle game platform with microservices architecture
 
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Educational-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-Framework-blue.svg)](https://dotnet.microsoft.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-7.x-red.svg)](https://laravel.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-14+-green.svg)](https://nodejs.org/)
@@ -319,13 +319,31 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 
-This project is proprietary software. All rights reserved.
+**Educational & Learning Purpose - Non-Commercial**
+
+This project is released for **educational and learning purposes only**. The purpose of this release is to help developers learn and understand the project structure and folder organization of the Gunny game platform.
+
+### Terms of Use
+
+- ✅ **Allowed**: Study, learn, and understand the code structure
+- ✅ **Allowed**: Use as a reference for educational purposes
+- ❌ **Prohibited**: Commercial use without explicit permission
+- ❌ **Prohibited**: Redistribution for commercial purposes
+- ❌ **Prohibited**: Unauthorized modification and distribution
+
+### Game Resources
+
+- Game resources (images, sounds, assets) are sourced from China
+- Resource files are not included in this repository
+- All code implementations are original work by the developer
+
+**This is a learning resource, not a commercial product.**
 
 ---
 
 ## 👥 Team
 
-Developed and maintained by the GunnyArena development team.
+Developed and maintained by **vanloc19**.
 
 ---
 
@@ -337,11 +355,16 @@ Developed and maintained by the GunnyArena development team.
 
 ---
 
-## 📞 Support
+## 📞 Contact
 
-For issues and questions, please open an issue in the respective submodule repository or contact the development team.
+For questions, suggestions, or inquiries, please contact:
+
+- **Email**: [tovanloc19@gmail.com](mailto:tovanloc19@gmail.com)
+- **Facebook**: [vanloc19](https://www.facebook.com/vanloc1963/)
 
 ---
 
-**Built with ❤️ by the GunnyArena Team**
+**Built with ❤️ for the developer community**
+
+*This project serves as a comprehensive reference for understanding enterprise-level game platform architecture, microservices design, and professional project organization.*
 
