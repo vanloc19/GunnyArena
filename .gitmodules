@@ -1,0 +1,9 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:vanloc19/GunnyClient.git
+[submodule "Server"]
+	path = Server
+	url = git@github.com:vanloc19/GunnyServer.git
+[submodule "Admin"]
+	path = Admin
+	url = git@github.com:vanloc19/GunnyAdmin.git
