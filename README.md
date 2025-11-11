@@ -1,6 +1,6 @@
 # 🎮 GunnyArena
 
-> Enterprise-grade multiplayer tank battle game platform with microservices architecture (Test push)
+> Enterprise-grade multiplayer tank battle game platform with microservices architecture
 
 [![License](https://img.shields.io/badge/license-Educational-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-Framework-blue.svg)](https://dotnet.microsoft.com/)
