@@ -22,6 +22,10 @@ Docs/
 FLA/
 **/FLA/
 
+# Protect_Github - không commit scripts bảo vệ
+Protect_Github/
+**/Protect_Github/
+
 # Tools and Database - giữ folder structure nhưng ignore nội dung
 Tools/**
 !Tools/
