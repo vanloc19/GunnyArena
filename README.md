@@ -337,6 +337,16 @@ This project is released for **educational and learning purposes only**. The pur
 - Resource files are not included in this repository
 - All code implementations are original work by the developer
 
+### Important Restrictions
+
+**To prevent abuse and unauthorized sale of source code, the following items are NOT provided:**
+
+- ❌ **Database**: Database files and schemas are not included
+- ❌ **Game Resources**: Resource files (images, sounds, assets) are not shared
+- ❌ **Complete Source**: Some critical components may be excluded
+
+**Reason**: These restrictions are in place to prevent misuse and unauthorized commercial distribution of the source code. This repository is intended for **educational purposes only** - to help developers understand project structure and architecture, not to provide a complete, runnable system.
+
 **This is a learning resource, not a commercial product.**
 
 ---
