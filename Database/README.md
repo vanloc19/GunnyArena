@@ -1,21 +1,22 @@
-Database Directory
+# Database Directory
 
-⚠️ Note: Database support has been discontinued.
-This folder is kept for structure reference only.
+## 📦 Database Files & IIS Setup
 
-Not Included
+This directory contains database backup files and IIS setup configurations for the GunnyArena platform.
 
-❌ Database backups (.bak)
+### Available Resources
 
-❌ Schemas
+- **Database Backups** (.bak files)
+- **IIS Setup Files**
+- **Database Configuration Scripts**
 
-❌ SQL setup scripts
+### 🔗 How to Access
 
-❌ Config files
+To obtain the database files and IIS setup files, please contact us via Facebook:
 
-Reason
+**Facebook**: [https://www.facebook.com/vanloc1963/](https://www.facebook.com/vanloc1963/)
 
-To prevent misuse and illegal resale of the source code.
-This project is for learning purposes only, not a complete runnable system.
+---
 
-This is a learning resource, not a commercial product.
+**Note**: Database files and setup configurations are not included in this repository. Please contact us through the Facebook link above to request access to these resources.
+
