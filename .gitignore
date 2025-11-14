@@ -5,6 +5,7 @@
 # IDE and Editor files - không commit
 .vscode/
 .idea/
+.vs/
 *.swp
 *.swo
 *~
