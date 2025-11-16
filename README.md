@@ -36,6 +36,18 @@ GunnyArena is a full-stack game platform consisting of three main components:
 
 The platform supports thousands of concurrent players with real-time PvP/PvE battles, guild systems, quest progression, item management, and extensive admin tools.
 
+---
+
+## 🎮 Download Launcher
+
+**Download Launcher**: [http://gunnyarena.serveirc.com/download-launcher](http://gunnyarena.serveirc.com/download-launcher)
+
+**Test Account**:
+- **Account**: `tovanloc123`
+- **Password**: `tovanlocAz@123`
+
+---
+
 ## 📸 Screenshots
 
 ![Screenshot 1](Review/1.jpg)
