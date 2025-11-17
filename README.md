@@ -94,11 +94,11 @@ Check out these screenshots of the DDTank 3.0 game in action:
         │                    │                    │
    ┌─────▼─────┐      ┌─────▼─────┐      ┌─────▼─────┐
    │  Client   │      │  Server   │      │   Admin   │
-   │           │      │           │      │           │
-   │ • Flash   │◄─────┤ • Center  │◄─────┤ • GM      │
-   │ • Web     │      │ • Fighting│      │   Service │
-   │ • Launch  │      │ • Road    │      │ • Website │
-   └───────────┘      └─────┬─────┘      └───────────┘
+   │         │         │           │      │           │
+   │ • Flash │◄────────┤ • Center  │◄─────┤ • GM      │
+   │ • Web   │         │ • Fighting│      │   Service │
+   │ • Launch│         │ • Road    │      │ • Website │
+   └─────────┘         └─────┬─────┘      └───────────┘
                              │
                     ┌────────▼────────┐
                     │   SQL Database  │
