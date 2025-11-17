@@ -1,21 +1,12 @@
-# 🎮 DDTank 3.0 Full Source Code Free Download | GunnyArena Source Code | DD Tank Game Server
+# 🎮 GunnyArena - DDTank 3.0 Game Platform
 
-> **DDTank 3.0 Full Source Code** - Free download complete DDTank source code, GunnyArena source code, DD Tank game server source code. Full source code DDTank 3.0 with client, server, and admin panel. Ready to deploy game server code for creating your own DDTank private server.
+> Full-stack multiplayer tank battle game platform with microservices architecture, featuring real-time PvP/PvE battles, guild systems, and comprehensive admin tools.
 
 [![License](https://img.shields.io/badge/license-Educational-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-Framework-blue.svg)](https://dotnet.microsoft.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-7.x-red.svg)](https://laravel.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-14+-green.svg)](https://nodejs.org/)
-[![DDTank](https://img.shields.io/badge/DDTank-3.0-orange.svg)](https://github.com/vanloc19/GunnyArena)
-[![Source Code](https://img.shields.io/badge/Source-Code-green.svg)](https://github.com/vanloc19/GunnyArena)
-
-## 📥 DDTank Source Code Free Download
-
-**DDTank 3.0 Full Source Code** free download - Complete **GunnyArena source code** with **DD Tank game server source code**. This repository contains **full source code DDTank 3.0** including client (ActionScript/Flash), server (C# .NET), and admin panel (Laravel/ASP.NET MVC). Build your own **DDTank private server** with this **free DDTank source code**. Download **DD Tank source code** for **DDTank game development**. Complete **Gunny source code** and **DDTank server source code** included.
-
-**Keywords**: DDTank source code, DD Tank source code, Gunny source code, DDTank 3.0 source, DDTank full source, GunnyArena source, DD Tank server code, DDTank game server, free DDTank code, DDTank client source, DDTank server source, DDTank admin panel source
-
-🔥 **DDTank Source Code Free** | 📦 **DD Tank Full Source** | 🎮 **GunnyArena Source** | 🚀 **DDTank Game Server Code**
+[![AWS](https://img.shields.io/badge/AWS-Deployed-orange.svg)](https://aws.amazon.com/)
 
 ---
 
@@ -35,49 +26,32 @@
 
 ---
 
-## 🎯 Overview - DDTank 3.0 Source Code
+## 🎯 Overview
 
-**DDTank 3.0 Full Source Code** free download - This repository provides **complete DDTank source code** including **GunnyArena source code** and **DD Tank game server source code**. Get **full source code DDTank 3.0** with all components: **DDTank client source code**, **DDTank server source code**, and **DDTank admin panel source code**. Perfect for **DDTank game development** and creating **DDTank private server**.
+GunnyArena is a full-stack multiplayer tank battle game platform (DDTank 3.0) consisting of three main components:
 
-### What's Included in This DDTank Source Code Package
+- **Client**: Flash-based game client (ActionScript 3.0) with Electron launcher and Laravel web interface
+- **Server**: High-performance C# .NET microservices game server with SQL Server database
+- **Admin**: Comprehensive admin panel with ASP.NET MVC and Laravel backend
 
-This **DDTank 3.0 source code** repository contains:
+### Key Features
 
-- **DDTank Client Source Code**: Complete Flash/ActionScript game client source code with Electron launcher
-- **DDTank Server Source Code**: Full C# .NET game server source code with microservices architecture
-- **DDTank Admin Source Code**: Complete admin panel source code (Laravel + ASP.NET MVC)
-- **DD Tank Database**: SQL Server database structure for DDTank game server
-
-### DDTank Source Code Features
-
-✅ **DDTank 3.0 Full Source Code** - Complete source code DDTank 3.0 free download
-✅ **GunnyArena Source Code** - Full GunnyArena source code included
-✅ **DD Tank Server Code** - Complete DD Tank game server source code
-✅ **DDTank Client Source** - Flash game client source code (ActionScript)
-✅ **DDTank Server Source** - C# .NET game server source code
-✅ **DDTank Admin Source** - Admin panel source code for game management
-✅ **Free DDTank Code** - 100% free DDTank source code download
-✅ **Ready to Deploy** - Production-ready DDTank game server code
-✅ **Complete Documentation** - Setup guides for DDTank private server
-
-### About DDTank 3.0 Source Code
-
-This **DDTank source code** is perfect for developers who want to:
-- Create **DDTank private server** with custom features
-- Learn **DDTank game development** from source code
-- Study **DD Tank game server architecture** and microservices design
-- Build **DDTank game** with complete source code access
-- Download **free DDTank source code** for educational purposes
-
-The **DDTank 3.0 source code** includes real-time multiplayer tank battles, guild systems, quest progression, item management, character progression, PvP battles, PvE modes, and comprehensive admin tools for managing players, items, and game content.
+- Real-time multiplayer PvP/PvE battles supporting thousands of concurrent players
+- Guild management system with quest progression
+- Item management and character progression
+- Comprehensive admin tools for game management
+- Microservices architecture with scalable design
+- RESTful APIs and WebSocket for real-time communication
 
 ---
 
-## 🎮 Download Launcher
+## 🌐 Live Demo
+
+**Website**: [gunnyarena.serveirc.com/](http://gunnyarena.serveirc.com/)
 
 **Test Account**:
-- **Account**: `tovanloc123`
-- **Password**: `tovanlocAz@123`
+- Username: `tovanloc123`
+- Password: `tovanlocAz@123`
 
 ---
 
@@ -162,155 +136,60 @@ GunnyArena/
 
 ## 🧩 Components
 
-### 🎮 Client (Game Client Source Code)
+### 🎮 Client
 
 **Repository**: [GunnyClient](https://github.com/vanloc19/GunnyClient)
 
-The DDTank game client contains the complete source code for the Flash-based game client:
+- ActionScript 3.0 game client (Flash)
+- Electron-based desktop launcher
+- Laravel web application for player management
 
-- **FlashbaseSrc**: ActionScript 3.0 game client source code (DDTank client full source)
-- **Launcher**: Electron-based desktop launcher with auto-update functionality
-- **Website**: Laravel web application for player registration, login, and account management
+**Technologies**: ActionScript 3.0, Electron, Laravel, Node.js, HTML5, CSS3
 
-**Technologies**: ActionScript 3.0, Electron, Laravel, Node.js, Flash, Adobe AIR
-
-**Use Cases**: Game client development, Flash game programming, ActionScript learning, game launcher development
-
-### 🖥️ Server (Game Server Source Code)
+### 🖥️ Server
 
 **Repository**: [GunnyServer](https://github.com/vanloc19/GunnyServer)
 
-The DDTank game server is a high-performance C# .NET microservices architecture:
+- Microservices architecture (Center, Fighting, Road services)
+- Real-time battle logic and room management
+- RESTful APIs and WebSocket communication
+- Deployed on AWS
 
-- **Center Service**: Central server management, authentication, and player session handling
-- **Fighting Service**: Real-time battle logic, room management, and PvP/PvE combat system
-- **Road Service**: Game progression system, quest management, and level progression
-- **Web Services**: RESTful APIs, resource management, and game data endpoints
+**Technologies**: C# .NET Framework 4.8, ASP.NET, SQL Server, WCF Services, AWS
 
-**Technologies**: C# .NET Framework, ASP.NET, SQL Server, WCF Services
-
-**Use Cases**: Game server development, .NET game programming, multiplayer game architecture, microservices learning
-
-### ⚙️ Admin (Admin Panel & Management Tools)
+### ⚙️ Admin
 
 **Repository**: [GunnyAdmin](https://github.com/vanloc19/GunnyAdmin)
 
-Complete admin panel for managing the DDTank game:
-
-- **GM Service**: ASP.NET MVC admin panel for game master operations, player management, item management
-- **Website**: Laravel admin interface with comprehensive tools for game administration
+- ASP.NET MVC admin panel (GM operations)
+- Laravel admin interface with comprehensive management tools
 
 **Technologies**: ASP.NET MVC, Laravel, SQL Server, Bootstrap, jQuery
 
-**Use Cases**: Game administration, GM tools development, admin panel creation, game management system
-
 ---
 
-## 📥 How to Download DDTank 3.0 Source Code
-
-### Download DDTank Source Code Free
-
-To download **DDTank 3.0 full source code** for free:
-
-1. **Clone this repository** to get **complete DDTank source code**:
-```bash
-git clone --recursive https://github.com/vanloc19/GunnyArena.git
-```
-
-2. **Download as ZIP**: Click "Code" → "Download ZIP" on GitHub to download **DDTank source code** as a zip file.
-
-3. **What you'll get**:
-   - **DDTank client source code** (Flash/ActionScript)
-   - **DDTank server source code** (C# .NET)
-   - **DDTank admin source code** (Laravel + ASP.NET MVC)
-   - Complete **GunnyArena source code**
-   - **DD Tank game server source code**
-
-This **free DDTank source code** includes everything needed to build and run your own **DDTank private server**.
-
-### DDTank Source Code Download Links
-
-- **GitHub Repository**: [github.com/vanloc19/GunnyArena](https://github.com/vanloc19/GunnyArena)
-- **DDTank 3.0 Source Code**: Complete source code download
-- **GunnyArena Source Code**: Full source code included
-- **DD Tank Source Code**: Game server source code available
-
----
-
-## 🚀 Getting Started - How to Set Up Your DDTank Server from Source Code
-
-Follow this guide to set up your own **DDTank 3.0 game server** from **DDTank source code**.
+## 🚀 Getting Started
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed:
-
-- **Git** with submodule support (for cloning the repository)
-- **.NET Framework** 4.7+ (required for DDTank server and Admin GM service)
-- **PHP** 7.4+ and **Composer** (for Laravel websites - client and admin web interfaces)
-- **Node.js** 14+ and **npm** (for Electron launcher development)
-- **SQL Server** (for DDTank database - game data storage)
-- **Flash Builder** or compatible IDE (for ActionScript/Flash client development)
-- **Visual Studio** (for C# .NET server development)
+- .NET Framework 4.7+, PHP 7.4+, Node.js 14+, SQL Server
+- Visual Studio (for C# development), Flash Builder (for ActionScript)
 
 ### Installation
 
-1. **Clone the repository with submodules:**
-
 ```bash
+# Clone repository with submodules
 git clone --recursive https://github.com/vanloc19/GunnyArena.git
 cd GunnyArena
-```
 
-If you've already cloned without `--recursive`, initialize submodules:
+# Setup Client
+cd Client/Website && composer install && cp .env.example .env && php artisan key:generate
 
-```bash
-git submodule init
-git submodule update
-```
+# Setup Admin
+cd Admin/Website && composer install && cp .env.example .env && php artisan key:generate
 
-2. **Setup Client:**
-
-```bash
-cd Client/Website
-composer install
-cp .env.example .env
-php artisan key:generate
-```
-
-3. **Setup Server:**
-
-```bash
+# Setup Server (open GunArena.sln in Visual Studio and build)
 cd Server/GameSrc
-# Open GunArena.sln in Visual Studio
-# Restore NuGet packages
-# Build solution
-```
-
-4. **Setup Admin:**
-
-```bash
-cd Admin/Website
-composer install
-cp .env.example .env
-php artisan key:generate
-```
-
-5. **Configure Database:**
-
-- Restore database backups from `Database/` folder
-- Update connection strings in configuration files
-
-### Quick Start
-
-Use the provided startup scripts:
-
-```bash
-# Development mode
-start_dev.bat
-
-# Production mode
-start.bat
 ```
 
 ---
